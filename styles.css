@@ -1,0 +1,13 @@
+body {
+  background-color: red;
+  text-align: center;
+}
+h1 {
+  color: blue;
+}
+div {
+  background-color: cornflowerblue;
+}
+h3 {
+  text-transform: uppercase;
+}
